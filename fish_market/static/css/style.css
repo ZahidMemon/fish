@@ -1,0 +1,20 @@
+body {
+    background-color: #e6ccb2;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.btn-dark {
+    background-color: #9c6644;
+    border: none;
+}
+
+.btn-dark:hover {
+    background-color: #7f5539;
+}
+
+.navbar {
+    background-color: #7f5539 !important;
+}
